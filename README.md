@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felicity2024
 - 👀 I’m interested in ... PC Gaming and Twitch Streaming @MsSovereignIstty
-- 🌱 I’m currently learning ... Full Stack Web Development Online via Coder Academy
+- 🌱 I’m currently learning ... Full Stack Web Development Online via Coder Academy https://coderacademy.edu.au/
 - 📫 How to reach me ... Email me if you would like to get in contact mssovereignistty@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I was involved in a Game Jam in 2023 through Level Her Up WA https://levelherup.com.au/, it was a fantastic expereince and i cant wait to be involved again this year!
