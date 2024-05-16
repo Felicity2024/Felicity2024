@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Felicity2024
-- 👀 I’m interested in ... PC Gaming and Twitch Streaming @MsSovereignIsttyTwitch
+- 👀 I’m interested in ... PC Gaming and Twitch Streaming @MsSovereignIstty
 - 🌱 I’m currently learning ... Full Stack Web Development Online via Coder Academy
 - 📫 How to reach me ... Email me if you would like to get in contact mssovereignistty@gmail.com
 - 😄 Pronouns: ... she/her
