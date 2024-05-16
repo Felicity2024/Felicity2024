@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Full Stack Web Development Online via Coder Academy https://coderacademy.edu.au/
 - 📫 How to reach me ... Email me if you would like to get in contact mssovereignistty@gmail.com
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I was involved in a Game Jam in 2023 through Level Her Up WA https://levelherup.com.au/, it was a fantastic expereince and i cant wait to be involved again this year!
+- ⚡ Fun fact: ... My first intro to coding and web dev was in 2023 through Level Her Up, WA (https://levelherup.com.au/). After attending the workshops i was involved in a Game Jam in 2023, it was a fantastic expereince and I cant wait to be involved again this year!
 
 <!---
 Felicity2024/Felicity2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
